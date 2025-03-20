@@ -6,7 +6,7 @@ TRANSPARENT_THEME="$(tmux show-option -gv @tokyo-night-tmux_transparent)"
 case $SELECTED_THEME in
 "dark")
   declare -A THEME=(
-    ["background"]="#11121D"
+    ["background"]="#10111C"
     ["foreground"]="#A0A8CD"
     ["black"]="#06080A"
     ["blue"]="#7199EE"
